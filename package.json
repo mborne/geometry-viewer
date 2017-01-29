@@ -1,0 +1,13 @@
+{
+  "name": "geometry-viewer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "gh-deploy": "git subtree push --prefix public origin gh-pages"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+  }
+}
